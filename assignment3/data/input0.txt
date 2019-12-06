@@ -1,0 +1,4 @@
+../data/scene.pgm
+../data/basmati.pgm
+../data/book.pgm
+../data/box.pgm

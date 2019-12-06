@@ -1,0 +1,2 @@
+dodonkor
+../data/mug.jpg: 192 189
