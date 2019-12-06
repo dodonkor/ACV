@@ -1,0 +1,23 @@
+dodonkor
+../data/assignment2A.png: There are RO0 RX 1 R| 0 BO 1 BX 0 B| 2
+../data/assignment2B.png: There are RO0 RX 2 R| 1 BO 1 BX 0 B| 3
+../data/isolated1.png: There are RO0 RX 0 R| 0 BO 1 BX 0 B| 0
+../data/isolated3.png: There are RO0 RX 0 R| 0 BO 2 BX 0 B| 2
+../data/isolated5.png: There are RO0 RX 2 R| 0 BO 0 BX 0 B| 0
+../data/isolated7.png: There are RO0 RX 1 R| 0 BO 0 BX 0 B| 1
+../data/isolated9.png: There are RO0 RX 1 R| 0 BO 1 BX 0 B| 2
+../data/isolated11.png: There are RO0 RX 1 R| 1 BO 1 BX 0 B| 3
+../data/isolated13.png: There are RO0 RX 3 R| 2 BO 1 BX 0 B| 3
+../data/isolated15.png: There are RO0 RX 3 R| 2 BO 1 BX 0 B| 5
+../data/isolated17.png: There are RO0 RX 4 R| 2 BO 2 BX 0 B| 5
+../data/test1.png: There are RO0 RX 4 R| 2 BO 0 BX 0 B| 0
+../data/test2.png: There are RO0 RX 4 R| 0 BO 0 BX 0 B| 3
+../data/test3.png: There are RO0 RX 4 R| 0 BO 1 BX 0 B| 5
+../data/test4.png: There are RO0 RX 1 R| 1 BO 1 BX 0 B| 2
+../data/test5.png: There are RO0 RX 0 R| 0 BO 1 BX 0 B| 2
+../data/test6.png: There are RO0 RX 1 R| 0 BO 1 BX 0 B| 1
+../data/test7.png: There are RO0 RX 1 R| 1 BO 0 BX 0 B| 2
+../data/test8.png: There are RO0 RX 1 R| 1 BO 0 BX 0 B| 2
+../data/test9.png: There are RO0 RX 0 R| 2 BO 0 BX 0 B| 1
+../data/test10.png: There are RO0 RX 4 R| 2 BO 2 BX 0 B| 6
+camera: 

@@ -1,0 +1,12 @@
+../data/assignment2A.png
+../data/assignment2B.png
+../data/isolated1.png
+../data/isolated3.png
+../data/isolated5.png
+../data/isolated7.png
+../data/isolated9.png
+../data/isolated11.png
+../data/isolated13.png
+../data/isolated15.png
+../data/isolated17.png
+camera
